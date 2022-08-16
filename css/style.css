@@ -294,6 +294,7 @@ white-space: nowrap;
 /* start of third section  */
 .third_section ul li{
     font-size:40px;
+    margin:0 5%;
 }
 /* end of third section  */
 
