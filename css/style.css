@@ -378,8 +378,9 @@ button{
     height:200px;
 }
 .fourth_section .left_box p{
-    margin-top:20px;
+    margin:20px 5px;
 }
+
 /* end of fourth section  */
 .copyright p{
     font-size:10px;
