@@ -257,7 +257,6 @@ white-space: nowrap;
 /* start of tablet mode  */
 @media only screen and (max-width: 768px){
     button{
-        height:50px;
         padding:10px 20px;
     }
 /* start of second section  */
@@ -352,6 +351,7 @@ button{
 }
 .second_section .email_box{
     flex-direction: column;
+    margin:2%;
 }
 .second_section .email_box input{
     width:95%;
@@ -360,8 +360,11 @@ button{
    padding: 0;
    padding-left: 10px;
 }
+.second_section .check_box {
+    margin-left: 2%;
+}
 .second_section .check_box p{
-    /* margin-left:0; */
+    margin-left:5px;
     font-size:9px;
     padding:0;
 }
